@@ -15,5 +15,5 @@ public class testt2 {
         this.b = b;
     }
     private int x;
-
+    private String abcd;
 }
