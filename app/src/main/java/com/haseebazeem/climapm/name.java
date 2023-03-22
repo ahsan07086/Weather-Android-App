@@ -14,4 +14,5 @@ public class name {
     public void setB(int b) {
         this.b = b;
     }
+    private String ms;
 }
