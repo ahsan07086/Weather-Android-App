@@ -14,5 +14,5 @@ public class testt2 {
     public void setB(int b) {
         this.b = b;
     }
-    private int marks;
+    private int x;
 }
