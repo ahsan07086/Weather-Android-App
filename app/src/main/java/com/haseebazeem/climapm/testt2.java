@@ -16,5 +16,5 @@ public class testt2 {
     }
     private float id;
     private float y;
-
+    private String abcd;
 }
