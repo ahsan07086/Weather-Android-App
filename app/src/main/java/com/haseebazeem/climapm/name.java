@@ -1,9 +1,9 @@
 package com.haseebazeem.climapm;
 
-public class testt2 {
+public class name {
     private int b;
 
-    public testt2(int b) {
+    public name(int b) {
         this.b = b;
     }
 
@@ -14,6 +14,5 @@ public class testt2 {
     public void setB(int b) {
         this.b = b;
     }
-    private int x;
-
+    private String ms;
 }
