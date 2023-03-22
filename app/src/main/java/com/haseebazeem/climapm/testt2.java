@@ -15,5 +15,6 @@ public class testt2 {
         this.b = b;
     }
     private float id;
+    private float y;
 
 }
